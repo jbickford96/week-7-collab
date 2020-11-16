@@ -11,9 +11,13 @@ knitr::opts_chunk$set(echo = TRUE)
 We're in, let's gooo!!
 Hi! Team work makes the dream work! 
 
+<<<<<<< HEAD
 ## Lets try a code chunk 
 
 ```{r}
 5 + 5 
 ```
 
+=======
+Here's another line for more practice!
+>>>>>>> 499448663fdae436443728a19478929a00681644
