@@ -20,4 +20,10 @@ Hi! Team work makes the dream work!
 5 + 5 
 ```
 
+Let's mess with penguins!
+
+```{r}
+ggplot(data = penguins, aes(x = flipper_length_mm, y = bill_length_mm)) +
+  geom_point()
+```
 
