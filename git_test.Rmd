@@ -13,7 +13,16 @@ library(palmerpenguins)
 We're in, let's gooo!!
 Hi! Team work makes the dream work! 
 
+<<<<<<< HEAD
+## Lets try a code chunk 
+
+```{r}
+5 + 5 
+```
+
+=======
 Here's another line for more practice!
+<<<<<<< HEAD
 
 ```{r}
 penguins %>% 
@@ -21,3 +30,6 @@ penguins %>%
   geom_point()
 ```
 
+=======
+>>>>>>> 499448663fdae436443728a19478929a00681644
+>>>>>>> 2ec9c6c87aecfe6871a44bfccddf92f316162b3f
